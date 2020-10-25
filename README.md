@@ -1,2 +1,2 @@
 # etc
-Source Code, data and other artifacts not related to any specific project.
+Código fonte, dados e outros artefatos que não são relacionados à nenhum projeto específico.
